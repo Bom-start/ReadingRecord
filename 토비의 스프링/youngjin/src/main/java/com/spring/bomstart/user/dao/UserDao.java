@@ -2,6 +2,7 @@ package com.spring.bomstart.user.dao;
 
 import com.spring.bomstart.user.domain.User;
 
+import javax.sql.DataSource;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -12,8 +13,8 @@ public class UserDao {
 
     private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
 
-    public UserDao(){
-        connectionMaker = new DConnectionMaker();
+    public UserDao(ConnectionMaker connectionMaker){
+        this.connectionMaker = connectionMaker;
     }
 
     public void add(User user) throws ClassNotFoundException, SQLException {
