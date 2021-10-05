@@ -12,6 +12,9 @@
    -  본 저장소를 clone하고, 자신의 이름으로 브랜치를 생성해주세요.
    -  문서는 `/책/챕터/참여자명` 으로 디렉토리를 생성해서 추가해주세요.
    -  `main` 브랜치에 자신이 작성한 문서를 반영하고 싶다면, PR을 생성해주세요.
+   -  토요일 Zoom 미팅 전 혹은 미팅시간동안 함께 PR을 리뷰해요.
+   -  모든 분들의 approve를 받은 PR은 `main` 브랜치에 merge 합니다.
+   -  request change를 받은 PR은 미팅시간동안 또는 다음주에 다시 리뷰를 합니다 😄
    -  자세한 기여방법은 📌[Wiki](https://github.com/Bom-start/ReadingRecord/wiki/Contribution)를 참고해주세요 😄
 -  [Issues](https://github.com/Bom-start/ReadingRecord/issues/new/choose)
    -  책을 읽다가 발생한 궁금한 점 등은 Issues 로 등록해주세요
