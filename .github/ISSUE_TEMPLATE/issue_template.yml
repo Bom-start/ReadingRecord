@@ -17,6 +17,7 @@ body:
       options:
         - 토비의 스프링 (Vol.1)
         - 토비의 스프링 (Vol.2)
+        - 클린 코드
     validations:
       required: true
   - type: input
