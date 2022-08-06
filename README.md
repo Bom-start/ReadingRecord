@@ -25,7 +25,10 @@
 
 ### 🖋 Record
 
--  [In progress] [토비의 스프링 by 이일민(토비)](https://book.naver.com/bookdb/book_detail.nhn?bid=7006516)
+-  [Done] [토비의 스프링 by 이일민(토비)](https://book.naver.com/bookdb/book_detail.nhn?bid=7006516)
+-  [Done] [클린코드](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34083680)
+-  [Done] [객체지향의 사실과 오해](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=60550259)
+-  [In progress] [오브젝트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=193681076)
 
 ### 🙋 Question
 
